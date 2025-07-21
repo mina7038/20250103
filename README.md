@@ -1,5 +1,7 @@
 # 랜드로버 웹 페이지 클론
 
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/bab752d3-8073-4430-b23a-cf3902091c3f" />
+
 이 프로젝트는 랜드로버(Land Rover) 홈페이지를 참고하여 만든 클론 웹페이지입니다.  
 HTML과 CSS를 활용해 정적인 구조와 레이아웃을 연습하기 위해 제작하였습니다.
 
